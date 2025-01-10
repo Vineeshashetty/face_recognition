@@ -44,14 +44,18 @@ Evaluate accuracy, precision, recall, and speed to optimize the system for high 
 
 >> Step2: And under the New Project section, select the Image Model folder.
 >> ![1000165221](https://github.com/user-attachments/assets/0c9d15c5-66de-40d9-bcd7-ea34e9a0f7e6)
+>> import face_recognition
+
+# Load the image file into a NumPy array
+image = face_recognition.load_image_file("your_file.jpg")
 
 
 
 
 >> Step3: Select the Standard Image Model option.![1000165246](https://github.com/user-attachments/assets/d9fde2a6-6cb4-4693-b61d-87a7bd078b95)
-
-
-
+>># Find all face landmarks in the image
+face_landmarks_list = face_recognition.face_landmarks(image)
+Description:-face_landmarks() identifies facial features like eyes, nose, mouth, eyebrows, and chin and returns a list of dictionaries. Each dictionary corresponds to a detected face and contains keys (facial features) and their associated points.
 
 >> Step4: Determine the Required classes and upload the photos using webcam and google drive, And Train the Model. You could see the comparision percentage for the given classes.![1000165248](https://github.com/user-attachments/assets/df59bade-6fa8-456a-af64-19f6b41b4e99)
 
