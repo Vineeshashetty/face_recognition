@@ -1,3 +1,5 @@
+![1000165221](https://github.com/user-attachments/assets/8305a37e-c344-498e-b9fc-f95b8ae4df8d)
+![1000165220](https://github.com/user-attachments/assets/4c5bba62-12a1-4865-9bc9-987f65b27758)
 This repository contains a Python-based  Face Recognition project a type of machine learning or deep learning model designed to identify or verify a person's identity by analyzing and comparing facial features in images or videos. These models are widely used in applications like security systems, user authentication, social media tagging, and more.
 
 ** Objective:
