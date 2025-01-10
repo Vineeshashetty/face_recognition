@@ -1,5 +1,3 @@
-![1000165221](https://github.com/user-attachments/assets/8305a37e-c344-498e-b9fc-f95b8ae4df8d)
-![1000165220](https://github.com/user-attachments/assets/4c5bba62-12a1-4865-9bc9-987f65b27758)
 This repository contains a Python-based  Face Recognition project a type of machine learning or deep learning model designed to identify or verify a person's identity by analyzing and comparing facial features in images or videos. These models are widely used in applications like security systems, user authentication, social media tagging, and more.
 
 ** Objective:
@@ -36,19 +34,31 @@ Evaluate accuracy, precision, recall, and speed to optimize the system for high 
 
 
 ** Installlation of facefinder+ 
->> Step1: Open chrome and search for Google Teachable Machines website(https://teachablemachine.withgoogle.com/) and click on Get started. 
+>> Step1: Open chrome and search for Google Teachable Machines website(https://teachablemachine.withgoogle.com/) and click on Get started.
+>> ![1000165251](https://github.com/user-attachments/assets/98cd2596-1687-4c63-95c2-ddc1a96c3d0c)
+>> ![1000165220](https://github.com/user-attachments/assets/3c0932b0-2312-4839-91c5-62e1a47de41f)
+
+
+ 
 
 
 >> Step2: And under the New Project section, select the Image Model folder.
+>> ![1000165221](https://github.com/user-attachments/assets/0c9d15c5-66de-40d9-bcd7-ea34e9a0f7e6)
 
 
->> Step3: Select the Standard Image Model option.
 
 
->> Step4: Determine the Required classes and upload the photos using webcam and google drive, And Train the Model. You could see the comparision percentage for the given classes.
+>> Step3: Select the Standard Image Model option.![1000165246](https://github.com/user-attachments/assets/d9fde2a6-6cb4-4693-b61d-87a7bd078b95)
 
 
->> Step5: Click on Export the Model.
+
+
+>> Step4: Determine the Required classes and upload the photos using webcam and google drive, And Train the Model. You could see the comparision percentage for the given classes.![1000165248](https://github.com/user-attachments/assets/df59bade-6fa8-456a-af64-19f6b41b4e99)
+
+
+
+>> Step5: Click on Export the Model.![1000165247](https://github.com/user-attachments/assets/e40b99ed-09e5-41a3-8187-def81ffeebad)
+
 
 >> Step6: Under the tensorflow tab, select Download the model option. And a .zip file would be downloaded. 
 
