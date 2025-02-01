@@ -1,4 +1,4 @@
-This repository contains a Python-based  Face Recognition project a type of machine learning or deep learning model designed to identify or verify a person's identity by analyzing and comparing facial features in images or videos. These models are widely used in applications like security systems, user authentication, social media tagging, and more.
+![Screenshot 2025-02-01 133513](https://github.com/user-attachments/assets/566ed230-3c1e-417c-9325-0afea31c5fc9)This repository contains a Python-based  Face Recognition project a type of machine learning or deep learning model designed to identify or verify a person's identity by analyzing and comparing facial features in images or videos. These models are widely used in applications like security systems, user authentication, social media tagging, and more.
 
 ** Objective:
 
@@ -64,14 +64,25 @@ Description:-face_landmarks() identifies facial features like eyes, nose, mouth,
 >> Step5: Click on Export the Model.![1000165247](https://github.com/user-attachments/assets/e40b99ed-09e5-41a3-8187-def81ffeebad)
 
 
->> Step6: Under the tensorflow tab, select Download the model option. And a .zip file would be downloaded. 
+>> Step6: Under the tensorflow tab, select Download the model option. And a .zip file would be downloaded.
+>> ![Screenshot 2025-02-01 134426](https://github.com/user-attachments/assets/12dff168-5869-4a46-a000-dd1d9249c4c4)
+
 
 
 >> Step8: To run it in local system, paste the Given code in pycharm or any other code Interpreter.
+>> ![Screenshot 2025-02-01 133513](https://github.com/user-attachments/assets/41d127ae-d671-4e07-826b-61d5ccebac53)
+
 
 >> Step9: Open the .zip file and copy the .h5 file and .txt file. And the save the files to the project path to Run the code.
+>> ![Screenshot 2025-02-01 134117](https://github.com/user-attachments/assets/61cb5346-3dab-47bc-b136-792c935dd927)
+
 
 >> Step10: Open the terminal and install the required libraries for the project.
 Tip-- chech the right python versions and tensorflow versions to avoid the syntax errors.
+>> ![Screenshot 2025-02-01 133920](https://github.com/user-attachments/assets/1327fc77-8e8d-4f01-9caf-91b27ba38e21)
+![Screenshot 2025-02-01 133857](https://github.com/user-attachments/assets/41ec9292-a67a-4c1e-9d95-03a887bcd003)
+
 
 >> Step11: Run the code and, Hence the facefinder+ works.
+![Screenshot 2025-02-01 132849](https://github.com/user-attachments/assets/e9c84d06-9e96-4cc6-b27e-3052039831bf)
+
